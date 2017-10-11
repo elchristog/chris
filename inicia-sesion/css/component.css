@@ -1,0 +1,99 @@
+/* Main form wrapper */
+body {
+
+	min-height: 500px;
+	width: 100%;
+	margin: 0px;
+	font-family: sans-serif;
+
+}
+.fs-title{
+	color: #F38829;
+	font-size: 20px;
+	text-align: center;
+}
+
+.titulo-cargando{
+	color: #FCD1ED;
+	font-size: 20px;
+	text-align: center;
+	background-color: #403136;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -8px;
+    width: 100%;
+}
+
+.contenedor{
+	text-align: center;
+	margin-top: 10%;
+}
+
+.inicia{
+	color: #BD8298;
+}
+.botonFace{
+	
+}
+.terminos{
+	color:#626F5E;
+}
+
+
+
+
+
+
+
+
+/* Adjust form for smaller screens */
+
+@media screen and (max-width: 52.5em) {
+
+	body {
+
+		min-height: 500px;
+		width: 100%;
+		margin: 0px;
+		font-family: sans-serif;
+
+	}
+.fs-title{
+	color: #F38829;
+	font-size: 60px;
+	text-align: center;
+	background-color: #403136;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -8px;
+    width: 100%;
+}
+
+.titulo-cargando{
+	color: #FCD1ED;
+	font-size: 20px;
+	text-align: center;
+}
+
+.contenedor{
+	text-align: center;
+	margin-top: 25%;
+	padding-left: 30px;
+    padding-right: 30px;
+}
+.inicia{
+	color: #BD8298;
+	font-size: 20px;
+}
+.botonFace{
+width: 200px;
+height: 40px;
+}
+
+.terminos{
+	color:#626F5E;
+	font-size: 11px;
+}
+
+
+}

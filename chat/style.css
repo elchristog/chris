@@ -1,0 +1,50 @@
+*                               { margin: 0; padding: 0; height: 100%;}
+body                            { font: 12px "Lucida Grande", Sans-Serif; background: #403136; }
+h2                              { color: #fff; font: 17px Helvetica, Sans-Serif; margin: 0 0 10px 80px; height: 20px; padding-top: 20px; display: inline-block; }
+h4                              { color: #fff; font: 12px Helvetica, Sans-Serif; margin: -13px 0 15px 80px; height: 20px; }
+#estaEscribiendo                { color: #fff; font: 12px Helvetica, Sans-Serif; margin: -20px 0 15px 80px; height: 5px; }
+#page-wrap                      { width: 100%; height: 100%; padding-top: 20px auto; position: relative; }
+
+#chat-wrap                      { border: 1px solid #eee; margin: 0 0 15px 0; height: 70%; }
+#chat-area                      { height: 95%; overflow: auto; padding: 20px; background: white; }
+#chat-area span                 { color: white; background: #403136; padding: 4px 8px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat-area p                    { padding: 10px 0; border-bottom: 1px solid #F5F1EE; font-size: initial; height: 30px; }
+
+#name-area                      { position: absolute; top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }   
+#name-area span                 { color: #fa9f00; }
+
+#send-message-area p            { float: left; color: white; padding-top: 27px; font-size: 14px; }
+#send-message-area              { width: 100%; height: 13%; padding-top: 20px; margin: 0px; text-align: center; background-color: #D0D0D0; }
+#sendie                         { width: 90%; height: 50%; padding: 10px; font: 15px "Lucida Grande", Sans-Serif; border: 3px solid #F5F1EE; }
+#logo9meses                     { height: 55px; display: inline-block; margin-top: 10px; margin-left: 10px; position: absolute; }
+
+
+
+
+@media screen and (max-width: 55em) {
+
+*                               { margin: 0; padding: 0; height: 100%;}
+body                            { font: 12px "Lucida Grande", Sans-Serif; background: #403136; }
+h2                              { color: #fff; font: 17px Helvetica, Sans-Serif; margin: 0 0 10px 80px; height: 20px; padding-top: 20px; display: inline-block; }
+h4                              { color: #fff; font: 12px Helvetica, Sans-Serif; margin: -13px 0 15px 80px; height: 20px; }
+#estaEscribiendo                { color: #fff; font: 12px Helvetica, Sans-Serif; margin: -20px 0 15px 80px; height: 5px; }
+#page-wrap                      { width: 100%; height: 100%; padding-top: 20px auto; position: relative; }
+
+#chat-wrap                      { border: 1px solid #eee; margin: 0 0 15px 0; height: 67%; }
+#chat-area                      { height: 95%; overflow: auto; padding: 20px; background: white; }
+#chat-area span                 { color: white; background: #403136; padding: 1px 4px; -moz-border-radius: 5px; -webkit-border-radius: 8px; margin: 0 5px 0 0; }
+#chat-area p                    { padding: 10px 0; border-bottom: 1px solid #F5F1EE; font-size: 13px; height: 30px; }
+
+#name-area                      { position: absolute; top: 12px; right: 0; color: white; font: bold 12px "Lucida Grande", Sans-Serif; text-align: right; }   
+#name-area span                 { color: #fa9f00; }
+
+#send-message-area p            { float: left; color: white; padding-top: 27px; font-size: 14px; }
+#send-message-area              { width: 100%; height: 13%; padding-top: 20px; margin: 0px; text-align: center; background-color: #D0D0D0; }
+#sendie                         { width: 90%; height: 50%; padding: 10px; font: 15px "Lucida Grande", Sans-Serif; border: 3px solid #F5F1EE; }
+#logo9meses                     { height: 55px; display: inline-block; margin-top: 10px; margin-left: 10px; position: absolute; }
+
+
+}
+
+
+
