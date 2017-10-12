@@ -27,6 +27,19 @@ a:focus {
 	outline: none;
 }
 
+.encabezado-aliados {
+	position: absolute;
+    top: 0em;
+    right: 0em;
+    left: 0em;
+    background-color: #403136;
+    height: 12vh;
+    color: #fff;
+    text-align: center;
+    padding-top: 4vh;
+    z-index: 11;
+}
+
 .boton-iniciar-chat{
     box-shadow: none;
     border-color: #BD8298;
