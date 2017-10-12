@@ -317,9 +317,16 @@ a:focus {
 }
 .content--nopadding--servicios {
 	padding: 0;
+	margin-top: 40vh;
+	margin-bottom: 50px;
+}
+
+.content--nopadding--aliados--genera--codigo {
+	padding: 0;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
 
 .content--boxes--apoyo {
 	min-height: 20vh;
@@ -328,6 +335,10 @@ a:focus {
 
 .content--boxes {
 	min-height: 40vh;
+}
+
+.content--boxes--genera--codigo {
+	min-height: 85vh;
 }
 
 .content__inner {
